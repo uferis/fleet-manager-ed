@@ -1,5 +1,5 @@
 package org.example;
-public class Main{
+public class FleetTest {
     public static void main(String[] args) {
         Driver ana = new Driver("Ana", "B");
         Driver tomas = new Driver("Tomas", "C");
